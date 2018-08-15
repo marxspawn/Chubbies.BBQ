@@ -1,4 +1,4 @@
-# [Cubbies.BBQ](https://marxspawn.github.io/Cubbies.BBQ/)
+# [Chubbies.BBQ](https://marxspawn.github.io/Chubbies.BBQ/)
 
 ### Bootstrapped template for future webpage
 -------
